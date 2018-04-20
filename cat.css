@@ -1,0 +1,19 @@
+.intro{
+  font-style: italic;
+}
+.rar{
+  color: red;
+}
+p.rar  {
+  font-size: 12px;
+}
+  .bob p{
+  background-color: coral;
+}
+
+.wild{
+  font-weight: bold;
+}
+.dod p span {
+  font-weight: normal;
+  }
